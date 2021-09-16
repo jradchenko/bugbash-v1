@@ -1,2 +1,2 @@
 # bugbash-v1
-test4
+test6
